@@ -1,0 +1,3 @@
+gcc -Wall -std=c99 -o laberinto.out laberinto.c
+
+./laberinto.out
